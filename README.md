@@ -1,0 +1,2 @@
+# Division by Zero Bug in C
+This repository demonstrates a common but easily overlooked error in C programming: division by zero.  The `bug.c` file contains the problematic code, while `bugSolution.c` provides a corrected version.  This simple example highlights the importance of input validation and error handling to prevent program crashes and unexpected behavior.
